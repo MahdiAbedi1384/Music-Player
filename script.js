@@ -158,5 +158,11 @@ music_list.push(
         name: 'Zemestoon',
         artist: 'Afshin Moghadam',
         music: 'https://dls.musics-fa.com/tagdl/downloads/Afshin%20Moghadam%20-%20Zemestoon%20(320).mp3'
+    },
+    {
+        img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/542px-Unknown_person.jpg',
+        name: 'Unknown Track',
+        artist: 'Unknown Artist',
+        music: 'https://musictag.musicmelnet.com/tracks/02/06/Hooshmand%20Aghili%20-%20Farda%20-%20320%20-%20musictag.ir.mp3'
     }
 )
