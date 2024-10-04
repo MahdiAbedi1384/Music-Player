@@ -151,6 +151,10 @@ function setUpdate() {
         total_duration.textContent = durationMinutes + ":" + durationSeconds;
     }
 }
+document.addEventListener("keypress", (e) => {
+    if (e.which == 32 && isPlaying == true) pauseTrack()
+    else playTrack()
+})
 //push new musics
 music_list.push(
     {
